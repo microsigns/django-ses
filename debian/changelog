@@ -1,0 +1,5 @@
+python-django-ses (0.5.0-95) testing; urgency=low
+
+  * Initial Debian package
+
+ -- Bruno Clermont <bruno.clermont@gmail.com>  Wed,  3 Oct 2012 16:34:00 +0200
